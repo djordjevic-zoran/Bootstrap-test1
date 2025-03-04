@@ -9,12 +9,15 @@ $body-color: #000;
 $dark-color: #11284B;
 
 $container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px,
-  xl: 1140px,
-  xxl: 1140px //1320px
+sm: 540px,
+md: 720px,
+lg: 960px,
+xl: 1140px,
+xxl: 1140px //1320px
 );
 
 $h1-font-size: 5rem;
 $h2-font-size: 3.6rem;
+$navbar-light-color:                #000;
+$navbar-light-hover-color:       $blue;
+$navbar-light-active-color:      $blue;
